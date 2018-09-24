@@ -2,29 +2,35 @@ body{
 	background-color: lightgrey;
 }
 
-h1{
-		color:blue;
-		font-size:90px;
-		text-decoration:underline;
+	h1{
+		color:red;
+		font-size:60px;
 	}
 
 	h2{
 		font-size: 40px;
 		color:green;
+		
 	}
 
 	span{
 		font-style: italic;
+		color:red;
 	}
 
 	h2 span{
-		text-decoration:line-through;
+		text-decoration:underline;
+		color:black;
+		font-style:bold;
 	}
 
 	#first{
-		font-size: 100px;
+		font-size: 80px;
+		text-decoration:underline;
 	}
 
 	.small{
-		font-size:12px;
+		font-size:22px;
+		color:black;
+		font-style: italic;
 	}
